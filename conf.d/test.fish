@@ -1,1 +1,1 @@
-echo hello
+printf 'test'
